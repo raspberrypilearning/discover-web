@@ -34,19 +34,7 @@ title: About Discover projects
 
 Discover projects are short 'taster' projects that can be completed in 10-15 minutes. They are a great way to try out a new technology and find out if you (or your club members) are ready to dive deeper into a 321 Make! path to develop skills and independence.
 
-Discover projects are available as a one page printable which can be viewed online, as an offline pdf document or printed on paper. 
+**Discover** projects are available as a one page printable which can be viewed online, as an offline pdf document or printed on paper. 
 
 --- /collapse ---
-
---- no-print ---
-Add instructions for interacting with the embedded content here.
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
-
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
 
