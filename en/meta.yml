@@ -1,11 +1,13 @@
-title: default-project-template
+title: Discover Web Development with HTML & CSS
 hero_image: images/banner.png
-description: default-project-template description
+description: Discover Web Development with HTML & CSS
 version: 4
 listed: false
 copyedit: false
 last_tested: "2022-05-19"
 steps:
   - title: Introduction
-  - title: Step title
+  - title: Photo gallery
+  - title: Choose your style
+  - title: Animate it!
   - title: What next?
